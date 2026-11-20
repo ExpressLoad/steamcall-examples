@@ -1,0 +1,9 @@
+{
+  "purpose": "PUBLIC TEST VECTOR ONLY; never use this key in an endpoint",
+  "key_base64url": "AAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8",
+  "key_id": "whk_55555555555545558555555555555555",
+  "timestamp": "1789216928",
+  "webhook_id": "evt_11111111111141118111111111111111",
+  "body_utf8": "{\"id\":\"evt_11111111111141118111111111111111\",\"version\":1,\"type\":\"inventory.refresh.completed\",\"occurred_at\":\"2026-09-12T12:42:08Z\",\"project_id\":\"prj_22222222222242228222222222222222\",\"data\":{\"refresh_id\":\"33333333-3333-4333-8333-333333333333\",\"state\":\"completed\",\"outcome\":\"complete_changed\"},\"links\":{\"refresh\":\"/v2/steam/inventory-refreshes/33333333-3333-4333-8333-333333333333\"}}",
+  "signature_base64url": "9RI7i4CZsiAsWLir75nAmGFJ8r29fNHYgrSOyXkfgR4"
+}
